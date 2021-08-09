@@ -1,0 +1,13 @@
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.Cache
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.fmMain.resources
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.fmAbout.resources
+C:\Users\tanaKa\Desktop\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\tanaKa\Documents\school\uni\C#\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\tanaKa\Documents\school\uni\C#\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\tanaKa\Documents\school\uni\C#\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
